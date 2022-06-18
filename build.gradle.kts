@@ -5,7 +5,7 @@ group = "de.lancom.genesis"
 version = "1.1.5"
 
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "1.6.20"
+    id("org.jetbrains.kotlin.jvm") version "1.7.0"
     id("maven-publish")
     id("java-gradle-plugin")
     id("com.gradle.plugin-publish") version "0.21.0"
